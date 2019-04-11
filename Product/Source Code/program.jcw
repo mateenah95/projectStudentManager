@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>program</label>
+		<id>18</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>program.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>program.jcp</path>
+		</project>
+	</projects>
+</workspace>
